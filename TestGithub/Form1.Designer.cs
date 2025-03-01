@@ -24,6 +24,8 @@ namespace TestGithub
         void Message()
         {
             int test = 0;
+            bool confirm = false;
+            string idontknow = "stupidddd coder";
         }
 
         #region Windows Form Designer generated code
