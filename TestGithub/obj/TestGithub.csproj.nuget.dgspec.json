@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\TestGithub\\TestGithub\\TestGithub.csproj": {}
+    "D:\\Khue\\testGitHubNhom2\\TestGithub\\TestGithub.csproj": {}
   },
   "projects": {
-    "D:\\Test\\TestGithub\\TestGithub\\TestGithub.csproj": {
+    "D:\\Khue\\testGitHubNhom2\\TestGithub\\TestGithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\TestGithub\\TestGithub\\TestGithub.csproj",
+        "projectUniqueName": "D:\\Khue\\testGitHubNhom2\\TestGithub\\TestGithub.csproj",
         "projectName": "TestGithub",
-        "projectPath": "D:\\Test\\TestGithub\\TestGithub\\TestGithub.csproj",
+        "projectPath": "D:\\Khue\\testGitHubNhom2\\TestGithub\\TestGithub.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\TestGithub\\TestGithub\\obj\\",
+        "outputPath": "D:\\Khue\\testGitHubNhom2\\TestGithub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
