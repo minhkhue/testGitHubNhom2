@@ -21,6 +21,11 @@ namespace TestGithub
             base.Dispose(disposing);
         }
 
+        void Message()
+        {
+            int test = 0;
+        }
+
         #region Windows Form Designer generated code
 
         /// <summary>
