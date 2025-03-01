@@ -25,7 +25,7 @@ namespace TestGithub
         {
             int test = 0;
             bool confirm = false;
-            string idontknow = "im the master of coding";
+            string idontknow = "wondeful coder";
         }
 
         #region Windows Form Designer generated code
